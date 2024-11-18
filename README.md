@@ -10,15 +10,15 @@ Welcome to the Airbnb Clone Project! This is a simplified booking system inspire
 ---
 
 ## Goals 🎯
-By completing this project, you will:
+By completing this project, l will:
 - Master **modern development tools** like React, TypeScript, Django, and MySQL.
 - Build a fully functional booking system with a sleek, user-friendly design.
 
 ---
 
 ## Tech Stack 💻
-- **Frontend**: React, TypeScript, Next.js, TailwindCSS.
-- **Backend**: Django, MySQL.
+- **Frontend**: React, TypeScript, Next.js, HTML5, TailwindCSS.
+- **Backend**: Python Django, MySQL.
 - **Extras**: Redux or Context API for state management, Jest for testing.
 
 ---
@@ -34,9 +34,9 @@ By completing this project, you will:
 ### 1. UI/UX Design Planning
 | **Page**     | **Description**                                                              | **UI Goals**                    |
 |--------------|------------------------------------------------------------------------------|---------------------------------|
-| **Listings** | Displays properties with title, price, and images in a clean grid layout.    | Responsive design, visual appeal. |
-| **Details**  | Highlights property details (name, location, price, and amenities).          | Clear, concise information layout. |
-| **Checkout** | Streamlined booking flow with date and guest selection.                      | User-friendly, fast booking.   |
+| **Property Listing View** | Displays properties with title, price, and images in a clean grid layout.    | Responsive design, visual appeal. |
+| **Listing Detailed View**  | Highlights property details (name, location, price, and amenities).          | Clear, concise information layout. |
+| **Simple Checkout View** | Streamlined booking flow with date and guest selection.                      | User-friendly, fast booking.   |
 
 - **Focus**: Create a clean, user-friendly interface.
 
